@@ -24,7 +24,9 @@ It has multiple pages, reusable components, and a cart system using React Contex
 
 ---
 
+
 ## 📂 Folder Structure
+```bash
 src/
 ├── assets/ # Images & icons
 ├── components/ # Navbar, HeroSection, ItemCard, ServiceCard, Footer, Cart, ScrollToTop, NotFound
