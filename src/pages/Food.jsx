@@ -1,7 +1,7 @@
 import { useState } from "react";
 import ItemCard from "../components/ItemCard";
 import FoodFilters from "../components/FoodFilters";
-import pizzahutImg from "../assets/pizzahut.jpg";
+import pizzahutImg from "../assets/pizzaHut.jpg";
 import dominosImg from "../assets/dominos.jpg";
 import biryaniImg from "../assets/biryani.jpg";
 import burgerImg from "../assets/burger.jpg";
