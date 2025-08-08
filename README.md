@@ -35,7 +35,7 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
-
+```
 
 
 ---
@@ -60,3 +60,4 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
 # Start development server
 npm run dev
+```
