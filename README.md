@@ -5,6 +5,13 @@ It has multiple pages, reusable components, and a cart system using React Contex
 
 ---
 
+## 📸 Project Screenshot
+![SnapServe App Screenshot](src/assets/SnapServe.png)
+
+
+---
+---
+
 ## 🚀 Features
 - Home page with a hero section
 - Food, Grocery, and Ride service pages
