@@ -31,6 +31,13 @@ It has multiple pages, reusable components, and a cart system using React Contex
 
 ---
 
+---
+
+## Upcoming Features
+- Protected Routes
+- User Login
+- Order History
+
 
 ## 📂 Folder Structure
 ```bash
